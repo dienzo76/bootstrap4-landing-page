@@ -120,6 +120,10 @@ img {
     border: none;
 }
 
+.fab {
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+}
 /*
 .nav-link:hover {
     background: #0f0c03;
