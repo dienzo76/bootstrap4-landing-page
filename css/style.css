@@ -76,12 +76,6 @@ img {
     overflow: hidden;
 
 }
-/*
-.feature-content img {
-    margin-bottom: -3rem;
-}
-*/
-
 .feature-dark {
     background-color: #050401;
     color: #fffaff;
@@ -110,25 +104,13 @@ img {
 #main-footer a{
     color: #fffaff;
 }
-.fa.fa-navicon {
-    color:white;
-  }
-
-  button span {
-    /*overwriting*/
-    color: white;
-    font-size: 25px;
-    border: none;
-}
 
 .fab {
     padding-top: 0.5rem;
     padding-right: 0.5rem;
 }
 
-.jet-black {
-    color: #303036;
-}
+
 
 @media screen and (max-width : 767px ) {
     .pad-top {
