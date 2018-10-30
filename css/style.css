@@ -68,6 +68,7 @@ img {
 
 #stage-caption>p {
     color: #fffaff;
+    font-weight: 400;
 }
 
 .feature-content {
@@ -124,18 +125,14 @@ img {
     padding-top: 0.5rem;
     padding-right: 0.5rem;
 }
-/*
-.nav-link:hover {
-    background: #0f0c03;
-    height: 100%;
+
+.jet-black {
+    color: #303036;
 }
-*/
-/*
-@media screen and (min-width : 991px ) {
-    .feature-content {
-        display: flex;
-        align-items: center;
-    }
+
+@media screen and (max-width : 767px ) {
+    .pad-top {
+    padding-top: 0.5rem;
+}
 
 }
-*/
