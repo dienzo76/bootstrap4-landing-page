@@ -119,12 +119,7 @@ img {
     font-size: 25px;
     border: none;
 }
-.navbar-toggler {
-    padding: 0.25rem 0.75rem;
-    font-size: 1.25rem;
-    line-height: 1;
-    background-color: transparent;
-  }
+
 /*
 .nav-link:hover {
     background: #0f0c03;
