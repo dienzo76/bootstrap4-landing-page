@@ -117,12 +117,12 @@ img {
 
 
  
-.mar-top {
+.extra-margin {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
-.black-text {
+.text-black {
     color: #050401;
 }
 
@@ -131,6 +131,9 @@ img {
     border-bottom: solid 2px #050401;
 }
   
+
+
+
 
 @media screen and (min-width: 768px) {
     .h-screen {
