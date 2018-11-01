@@ -11,7 +11,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    color: #050401;
+    color: #d3a241;
 }
 
 h6 {
@@ -112,7 +112,10 @@ img {
 
 .nav-link {
     font-size: 1.1rem;
+    
 }
+
+
  
 .mar-top {
     margin-top: 1rem;
@@ -122,6 +125,12 @@ img {
 .black-text {
     color: #050401;
 }
+
+
+.text-underline {
+    border-bottom: solid 2px #050401;
+}
+  
 
 @media screen and (min-width: 768px) {
     .h-screen {
@@ -140,4 +149,12 @@ img {
     padding-top: 0.5rem;
 }
 
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .nav-link:hover {
+        border-bottom: solid 1px #d3a241;
+    }
 }
