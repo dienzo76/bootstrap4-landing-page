@@ -11,7 +11,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    color: #3b413c;
+    color: #050401;
 }
 
 h6 {
@@ -110,7 +110,30 @@ img {
     padding-right: 0.5rem;
 }
 
+.nav-link {
+    font-size: 1.1rem;
+}
+ 
+.mar-top {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 
+.black-text {
+    color: #050401;
+}
+
+@media screen and (min-width: 768px) {
+    .h-screen {
+        height: 700px;
+    }
+}
+
+@media screen and (max-width : 767px)  {
+    .h-screen {
+        height: 201px;
+    }
+}
 
 @media screen and (max-width : 767px ) {
     .pad-top {
